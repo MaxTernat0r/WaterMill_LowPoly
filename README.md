@@ -1,4 +1,4 @@
-# WaterMill_LowPoly
+# 3D model
 This project was created while I was passing [lessons of blender](https://crm.cloudlessons.ru/r/749938). Free to use, free for you)
 ## Directories:
 - instance: There are assets for my work
